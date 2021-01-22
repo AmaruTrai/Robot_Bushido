@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bushido v2", "Bushido v2\Bushido v2.pyproj", "{2D67EAE1-13E8-4295-8E56-BC005477DE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D67EAE1-13E8-4295-8E56-BC005477DE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D67EAE1-13E8-4295-8E56-BC005477DE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC5AD1D-536E-4FFA-A52D-AEE3B24FD7C9}
+	EndGlobalSection
+EndGlobal
